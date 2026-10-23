@@ -1,32 +1,16 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
-
- 
+EXPT NO: 3 STAIR CASE WIRING     
 AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
-
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
-
-1	Incandescent Lamp	60W	1 No.
-2	Lamp Holder	Pendent Type	1 No.
-3	SPDT Switch	230V,5A	2 Nos
-4	Wires	1/18”	As per requirement
-5	P.V.C Pipe	1/4"	As per requirement
-6	Wooden Board	-	1 No.
-7	Round block	-	1 No.
-
-
+Incandescent Lamp (60W), Lamp Holder	Pendent Type, SPDT Switch	230V(5A), Wires, P.V.C Pipe, Wooden Board, Round block
 Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
+PROCEDURE:
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
@@ -38,13 +22,81 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+Direct connection:
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
+CIRCUIT DIAGRAM: 
+
+
+<img width="890" height="501" alt="exp3 1" src="https://github.com/user-attachments/assets/7a8409af-402b-4d87-81ff-b6e9e0bd01b2" />
+
+
+Tabulation:
+
+
+<img width="742" height="323" alt="Screenshot 2026-10-23 143712" src="https://github.com/user-attachments/assets/91b3a4b9-851b-47fb-b779-0707fa488a1f" />
+
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
 
-Tabulation:2
+CIRCUIT DIAGRAM:
+
+
+<img width="678" height="387" alt="exp3 2" src="https://github.com/user-attachments/assets/eddfc065-5750-4c65-b003-ba7bdf964389" />
+
+
+Tabulation:
+
+
+<img width="742" height="292" alt="Screenshot 2026-10-23 143722" src="https://github.com/user-attachments/assets/aee222ff-8618-47c9-8ab3-d7dfeadd9c64" />
+
+
+
+OUTPUT:
+
+Direct connection circuit diagram:
+
+P1 and P1: 
+
+<img width="892" height="396" alt="Screenshot 2026-10-23 143317" src="https://github.com/user-attachments/assets/5c8f915d-2b34-4e42-b117-61b2e6772d67" />
+
+
+P2 and P2:
+
+<img width="871" height="375" alt="Screenshot 2026-10-23 143326" src="https://github.com/user-attachments/assets/5358ee7f-6fee-45b6-ad89-c85923d0f5e9" />
+
+
+P1 and P2:
+
+<img width="891" height="396" alt="Screenshot 2026-10-23 141140" src="https://github.com/user-attachments/assets/fd00745a-5799-4dd2-83ce-17b0aa7c6e27" />
+
+
+P2 and P1:
+
+<img width="1323" height="525" alt="Screenshot 2026-10-23 141027" src="https://github.com/user-attachments/assets/28cbe0d4-11ab-434a-a973-44eb2c739780" />
+
+
+Cross connection circuit diagram:
+
+P1 and P1:
+
+<img width="962" height="506" alt="Screenshot 2026-10-23 141815" src="https://github.com/user-attachments/assets/9c811333-fd98-4796-bacd-b57e54ecd3f9" />
+
+
+P2 and P2:
+
+<img width="962" height="527" alt="Screenshot 2026-10-23 141726" src="https://github.com/user-attachments/assets/fb713634-6317-4f2a-8c55-c1bb21183950" />
+
+
+P1 and P2:
+
+<img width="987" height="550" alt="Screenshot 2026-10-23 141716" src="https://github.com/user-attachments/assets/cfae8224-4a8b-4553-81a3-49b08fadef16" />
+
+
+P2 and P1:
+
+<img width="925" height="482" alt="Screenshot 2026-10-23 141736" src="https://github.com/user-attachments/assets/1d9897b0-2204-481f-b55f-f61c9b5f5b93" />
+
 
 RESULT:
+
 Thus the staircase wiring is connected and tested.
